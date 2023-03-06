@@ -1,6 +1,0 @@
-<template>
-  <MyButton></MyButton>
-</template>
-
-
-
