@@ -1,12 +1,6 @@
 <template>
-  <div>
-
-  </div>
+  <MyButton></MyButton>
 </template>
 
-<script>
-  export default {
-    
-  }
-</script>
+
 
